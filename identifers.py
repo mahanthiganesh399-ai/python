@@ -2,7 +2,7 @@
 age = 19
 MAX_MARKS = 100
 def greet():
-    return "Hello!"
+    return "Hello"
 class Student:
     pass
 student_name = "Ganesh"
